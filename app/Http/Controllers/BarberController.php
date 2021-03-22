@@ -294,6 +294,7 @@ class BarberController extends Controller
         return $array;
     }
 
+    //METODO UTILIZADO PARA CRIAR DADOS ALEATORIOS NO BANCO
     /*public function createRandom() {
         $array = ['error'=>''];
 
